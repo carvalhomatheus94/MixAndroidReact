@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MixNativeAndroid</string>
+    <string name="title_activity_integration_react">IntegrationReactActivity</string>
+</resources>
